@@ -17,7 +17,7 @@
 | Release Date            | May 2014                          |
 
 ## Device Picture
-![Galaxy Tab 4 7"](http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-4-70.jpg "Galaxy Tab 4 7")
+![Galaxy Tab 4 7"](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-tab-4-70-1.jpg "Galaxy Tab 4 7")
 
 ## Copyright
 
