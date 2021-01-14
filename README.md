@@ -1,5 +1,7 @@
 # Device configuration for Samsung Galaxy Tab 4 7"
 
+(Device tree in development)
+
 ## Spec Sheet
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
